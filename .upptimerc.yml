@@ -41,7 +41,7 @@ status-website:
     - title: Status
       href: /up
     - title: WWSqurd Uptime
-      href: https://github.com/$OWNER/$REPO
+      href: https://wwsquared.github.io/up
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
