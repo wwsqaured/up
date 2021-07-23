@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/src.wellnesswayusa.com",
     "slug": "ww-src-app",
     "status": "down",
-    "uptime": "86.49%",
-    "uptimeDay": "86.49%",
-    "uptimeWeek": "86.49%",
-    "uptimeMonth": "86.49%",
-    "uptimeYear": "86.49%",
+    "uptime": "94.84%",
+    "uptimeDay": "94.84%",
+    "uptimeWeek": "94.84%",
+    "uptimeMonth": "94.84%",
+    "uptimeYear": "94.84%",
     "time": 371,
     "timeDay": 371,
     "timeWeek": 371,
     "timeMonth": 371,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2021-07-23": 1
+      "2021-07-23": 0
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://favicons.githubusercontent.com/src.wellnesswaveusa.com",
     "slug": "ww-src-app",
     "status": "down",
-    "uptime": "85.92%",
-    "uptimeDay": "85.92%",
-    "uptimeWeek": "85.92%",
-    "uptimeMonth": "85.92%",
-    "uptimeYear": "85.92%",
+    "uptime": "94.56%",
+    "uptimeDay": "94.56%",
+    "uptimeWeek": "94.56%",
+    "uptimeMonth": "94.56%",
+    "uptimeYear": "94.56%",
     "time": 371,
     "timeDay": 371,
     "timeWeek": 371,
     "timeMonth": 371,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2021-07-23": 1
+      "2021-07-23": 0
     }
   },
   {
@@ -171,19 +171,17 @@
     "icon": "https://favicons.githubusercontent.com/firstrespondersflorida.com",
     "slug": "first-responder",
     "status": "up",
-    "uptime": "4.07%",
-    "uptimeDay": "4.07%",
-    "uptimeWeek": "4.07%",
-    "uptimeMonth": "4.07%",
-    "uptimeYear": "4.07%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 151,
     "timeDay": 151,
     "timeWeek": 151,
     "timeMonth": 151,
     "timeYear": 151,
-    "dailyMinutesDown": {
-      "2021-07-23": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WellnessWayUSA",
@@ -227,18 +225,18 @@
     "icon": "https://favicons.githubusercontent.com/src.wellnesswayusa.com",
     "slug": "ww-src-app",
     "status": "down",
-    "uptime": "85.40%",
-    "uptimeDay": "85.40%",
-    "uptimeWeek": "85.40%",
-    "uptimeMonth": "85.40%",
-    "uptimeYear": "85.40%",
+    "uptime": "93.99%",
+    "uptimeDay": "93.99%",
+    "uptimeWeek": "93.99%",
+    "uptimeMonth": "93.99%",
+    "uptimeYear": "93.99%",
     "time": 371,
     "timeDay": 371,
     "timeWeek": 371,
     "timeMonth": 371,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2021-07-23": 1
+      "2021-07-23": 0
     }
   }
 ]
