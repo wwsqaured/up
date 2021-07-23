@@ -13,21 +13,21 @@ sites:
     url: https://src.wellnesswayusa.com
   - name: SRCBenefits
     url: https://srcbenefits.com
-   - name: SRSO Benefits
+  - name: SRSO Benefits
     url: https://srsohr.com
-   - name: WW SRC APP
+  - name: WW SRC APP
     url: https://src.wellnesswaveusa.com
-   - name: JO Insurance
+  - name: JO Insurance
     url: https://joservicesinsurance.com
-   - name: JSGLOBE
+  - name: JSGLOBE
     url: https://joservicesglobal.com
-   - name: FirstResponder
+  - name: FirstResponder
     url: https://floridafirstresponders.com
-   - name: WellnessWayUSA
+  - name: WellnessWayUSA
     url: https://wellnesswayusa.com
-   - name: WW Connect
+  - name: WW Connect
     url: https://wellnesswayconnect.com
-   - name: WW SRC APP
+  - name: WW SRC APP
     url: https://src.wellnesswayusa.com
 
 status-website:
