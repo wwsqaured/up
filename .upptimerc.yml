@@ -10,7 +10,7 @@ sites:
   - name: W2Screen
     url: https://w2screen.com
   - name: WW SRC APP
-    url: https://src.wellnesswayusa.com
+    url: https://src.wellnesswaveusa.com
   - name: SRCBenefits
     url: https://srcbenefits.com
   - name: SRSO Benefits
@@ -27,9 +27,7 @@ sites:
     url: https://wellnesswayusa.com
   - name: WW Connect
     url: https://wellnesswayconnect.com
-  - name: WW SRC APP
-    url: https://src.wellnesswayusa.com
-
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
