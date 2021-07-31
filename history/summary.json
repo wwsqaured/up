@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 139,
     "timeDay": 168,
-    "timeWeek": 151,
+    "timeWeek": 155,
     "timeMonth": 139,
     "timeYear": 139,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 229,
     "timeDay": 234,
-    "timeWeek": 238,
+    "timeWeek": 269,
     "timeMonth": 229,
     "timeYear": 229,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 388,
     "timeDay": 301,
-    "timeWeek": 335,
+    "timeWeek": 339,
     "timeMonth": 388,
     "timeYear": 388,
     "dailyMinutesDown": {}
@@ -58,19 +58,19 @@
     "url": "https://src.wellnesswaveusa.com",
     "icon": "https://favicons.githubusercontent.com/src.wellnesswaveusa.com",
     "slug": "ww-src-app",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 385,
-    "timeDay": 1259,
-    "timeWeek": 409,
+    "timeDay": 1038,
+    "timeWeek": 433,
     "timeMonth": 385,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2021-07-31": 1
+      "2021-07-31": 36
     }
   },
   {
@@ -86,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 149,
     "timeDay": 141,
-    "timeWeek": 135,
+    "timeWeek": 140,
     "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {}
@@ -104,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 138,
     "timeDay": 111,
-    "timeWeek": 124,
+    "timeWeek": 130,
     "timeMonth": 138,
     "timeYear": 138,
     "dailyMinutesDown": {}
@@ -114,19 +114,19 @@
     "url": "https://src.wellnesswaveusa.com",
     "icon": "https://favicons.githubusercontent.com/src.wellnesswaveusa.com",
     "slug": "ww-src-app",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 385,
-    "timeDay": 1259,
-    "timeWeek": 409,
+    "timeDay": 1038,
+    "timeWeek": 433,
     "timeMonth": 385,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2021-07-31": 1
+      "2021-07-31": 36
     }
   },
   {
@@ -142,7 +142,7 @@
     "uptimeYear": "100.00%",
     "time": 304,
     "timeDay": 284,
-    "timeWeek": 306,
+    "timeWeek": 310,
     "timeMonth": 304,
     "timeYear": 304,
     "dailyMinutesDown": {}
@@ -153,18 +153,18 @@
     "icon": "https://favicons.githubusercontent.com/joservicesglobal.com",
     "slug": "jsglobe",
     "status": "down",
-    "uptime": "89.82%",
-    "uptimeDay": "21.32%",
-    "uptimeWeek": "88.76%",
-    "uptimeMonth": "89.82%",
-    "uptimeYear": "89.82%",
+    "uptime": "89.53%",
+    "uptimeDay": "18.83%",
+    "uptimeWeek": "88.40%",
+    "uptimeMonth": "89.53%",
+    "uptimeYear": "89.53%",
     "time": 337,
     "timeDay": 0,
-    "timeWeek": 335,
+    "timeWeek": 338,
     "timeMonth": 337,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2021-07-31": 991,
+      "2021-07-31": 1027,
       "2021-07-30": 142
     }
   },
@@ -181,7 +181,7 @@
     "uptimeYear": "100.00%",
     "time": 155,
     "timeDay": 143,
-    "timeWeek": 158,
+    "timeWeek": 148,
     "timeMonth": 155,
     "timeYear": 155,
     "dailyMinutesDown": {}
@@ -199,7 +199,7 @@
     "uptimeYear": "100.00%",
     "time": 149,
     "timeDay": 112,
-    "timeWeek": 132,
+    "timeWeek": 135,
     "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {}
@@ -217,7 +217,7 @@
     "uptimeYear": "100.00%",
     "time": 1009,
     "timeDay": 588,
-    "timeWeek": 1145,
+    "timeWeek": 1265,
     "timeMonth": 1009,
     "timeYear": 1009,
     "dailyMinutesDown": {}
