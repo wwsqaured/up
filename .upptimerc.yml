@@ -3,7 +3,7 @@ owner: wwsquared # Your GitHub organization or username, where this repository l
 repo: up # The name of this repository
 
 sites:
-  - name: Google - Litmus test
+  - name: Google
     url: https://www.google.com
   - name: Wikipedia - Litmus Site
     url: https://en.wikipedia.org
@@ -15,12 +15,8 @@ sites:
     url: https://srcbenefits.com
   - name: SRSO Benefits
     url: https://srsohr.com
-  - name: WW SRC APP
-    url: https://src.wellnesswaveusa.com
   - name: JO Insurance
     url: https://joservicesinsurance.com
-  - name: JSGLOBE
-    url: https://joservicesglobal.com
   - name: FirstResponder
     url: https://firstrespondersflorida.com
   - name: WellnessWayUSA
@@ -40,7 +36,7 @@ status-website:
   navbar:
     - title: Status
       href: /up/
-    - title: WWSqurd Uptime
+    - title: WWUptime
       href: https://github.com/$OWNER/$REPO/
 
 # Upptime also supports notifications, assigning issues, and more
