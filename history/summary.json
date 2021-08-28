@@ -96,18 +96,20 @@
     "url": "https://srsohr.com",
     "icon": "https://favicons.githubusercontent.com/srsohr.com",
     "slug": "srso-benefits",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 112,
-    "timeWeek": 127,
+    "timeDay": 114,
+    "timeWeek": 125,
     "timeMonth": 134,
     "timeYear": 136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-28": 0
+    }
   },
   {
     "name": "JO Insurance",
