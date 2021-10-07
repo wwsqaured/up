@@ -152,18 +152,20 @@
     "url": "https://wellnesswayusa.com",
     "icon": "https://favicons.githubusercontent.com/wellnesswayusa.com",
     "slug": "wellness-way-usa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 140,
-    "timeWeek": 123,
-    "timeMonth": 152,
+    "timeDay": 129,
+    "timeWeek": 122,
+    "timeMonth": 151,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-07": 0
+    }
   },
   {
     "name": "WW Connect",
