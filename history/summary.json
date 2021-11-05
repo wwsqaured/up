@@ -176,9 +176,9 @@
     "url": "https://wellnesswayconnect.com",
     "icon": "https://favicons.githubusercontent.com/wellnesswayconnect.com",
     "slug": "ww-connect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
@@ -188,6 +188,7 @@
     "timeMonth": 601,
     "timeYear": 720,
     "dailyMinutesDown": {
+      "2021-11-05": 0,
       "2021-10-26": 22,
       "2021-10-01": 19,
       "2021-08-27": 15
