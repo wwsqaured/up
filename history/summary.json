@@ -42,9 +42,9 @@
     "url": "https://w2screen.com",
     "icon": "https://favicons.githubusercontent.com/w2screen.com",
     "slug": "w2-screen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 320,
     "timeMonth": 307,
     "timeYear": 355,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "WW SRC APP",
@@ -61,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/src.wellnesswaveusa.com",
     "slug": "ww-src-app",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.62%",
-    "uptimeYear": "99.17%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.18%",
     "time": 402,
     "timeDay": 530,
     "timeWeek": 439,
@@ -177,9 +179,9 @@
     "url": "https://wellnesswayconnect.com",
     "icon": "https://favicons.githubusercontent.com/wellnesswayconnect.com",
     "slug": "ww-connect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
@@ -189,6 +191,7 @@
     "timeMonth": 617,
     "timeYear": 713,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-11-05": 19,
       "2021-10-26": 22,
       "2021-10-01": 19,
