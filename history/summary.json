@@ -24,9 +24,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia-litmus-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 132,
     "timeMonth": 157,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "W2Screen",
@@ -64,15 +66,15 @@
     "icon": "https://favicons.githubusercontent.com/src.wellnesswaveusa.com",
     "slug": "ww-src-app",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.54%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.55%",
     "time": 445,
     "timeDay": 377,
     "timeWeek": 458,
-    "timeMonth": 466,
+    "timeMonth": 472,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2022-02-01": 15,
