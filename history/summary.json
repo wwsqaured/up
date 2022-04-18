@@ -42,9 +42,9 @@
     "url": "https://w2screen.com",
     "icon": "https://favicons.githubusercontent.com/w2screen.com",
     "slug": "w2-screen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -54,6 +54,7 @@
     "timeMonth": 337,
     "timeYear": 351,
     "dailyMinutesDown": {
+      "2022-04-18": 0,
       "2021-12-20": 19,
       "2021-11-16": 23
     }
