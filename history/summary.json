@@ -24,19 +24,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia-litmus-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 160,
-    "timeWeek": 205,
+    "timeDay": 161,
+    "timeWeek": 200,
     "timeMonth": 157,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2022-05-21": 0
+      "2022-05-21": 20
     }
   },
   {
