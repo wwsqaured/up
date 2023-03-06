@@ -176,19 +176,19 @@
     "url": "https://joservicesinsurance.com",
     "icon": "https://icons.duckduckgo.com/ip3/joservicesinsurance.com.ico",
     "slug": "jo-insurance",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 320,
-    "timeDay": 97,
+    "timeDay": 102,
     "timeWeek": 112,
-    "timeMonth": 153,
+    "timeMonth": 152,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2023-03-06": 1
+      "2023-03-06": 17
     }
   },
   {
