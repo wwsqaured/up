@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/wellnesswayusa.com.ico",
     "slug": "ww",
     "status": "up",
-    "uptime": "91.95%",
+    "uptime": "91.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.13%",
+    "uptimeYear": "92.41%",
     "time": 121,
-    "timeDay": 140,
-    "timeWeek": 112,
+    "timeDay": 91,
+    "timeWeek": 104,
     "timeMonth": 126,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -42,8 +42,7 @@
       "2022-07-16": 1440,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
-      "2022-07-13": 1440,
-      "2022-07-12": 1440
+      "2022-07-13": 1440
     }
   },
   {
@@ -57,10 +56,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 443,
-    "timeDay": 467,
-    "timeWeek": 356,
-    "timeMonth": 378,
+    "time": 442,
+    "timeDay": 123,
+    "timeWeek": 311,
+    "timeMonth": 377,
     "timeYear": 414,
     "dailyMinutesDown": {
       "2023-02-09": 639,
@@ -81,9 +80,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 357,
-    "timeWeek": 203,
-    "timeMonth": 186,
+    "timeDay": 120,
+    "timeWeek": 185,
+    "timeMonth": 181,
     "timeYear": 97,
     "dailyMinutesDown": {}
   },
@@ -93,18 +92,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/srsohr.com.ico",
     "slug": "srso-benefits",
     "status": "down",
-    "uptime": "89.04%",
+    "uptime": "88.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "79.13%",
     "time": 112,
-    "timeDay": 99,
-    "timeWeek": 75,
+    "timeDay": 0,
+    "timeWeek": 69,
     "timeMonth": 80,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2023-07-11": 49,
+      "2023-07-12": 56,
+      "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
@@ -179,8 +179,7 @@
       "2022-07-16": 1440,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
-      "2022-07-13": 1440,
-      "2022-07-12": 1440
+      "2022-07-13": 1440
     }
   },
   {
@@ -194,10 +193,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 232,
-    "timeWeek": 152,
-    "timeMonth": 145,
+    "time": 269,
+    "timeDay": 44,
+    "timeWeek": 120,
+    "timeMonth": 144,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2023-03-06": 17
@@ -209,15 +208,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/firstrespondersflorida.com.ico",
     "slug": "first-responder",
     "status": "up",
-    "uptime": "95.67%",
+    "uptime": "95.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.13%",
+    "uptimeYear": "92.41%",
     "time": 132,
-    "timeDay": 180,
-    "timeWeek": 124,
-    "timeMonth": 142,
+    "timeDay": 84,
+    "timeWeek": 113,
+    "timeMonth": 143,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2022-08-08": 1083,
@@ -246,8 +245,7 @@
       "2022-07-16": 1440,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
-      "2022-07-13": 1440,
-      "2022-07-12": 1440
+      "2022-07-13": 1440
     }
   },
   {
@@ -256,15 +254,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wellnesswayusa.com.ico",
     "slug": "wellness-way-usa",
     "status": "up",
-    "uptime": "95.67%",
+    "uptime": "95.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.13%",
-    "time": 96,
-    "timeDay": 89,
-    "timeWeek": 71,
-    "timeMonth": 79,
+    "uptimeYear": "92.41%",
+    "time": 95,
+    "timeDay": 53,
+    "timeWeek": 66,
+    "timeMonth": 78,
     "timeYear": 72,
     "dailyMinutesDown": {
       "2022-08-08": 1083,
@@ -293,8 +291,7 @@
       "2022-07-16": 1440,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
-      "2022-07-13": 1440,
-      "2022-07-12": 1440
+      "2022-07-13": 1440
     }
   },
   {
@@ -308,10 +305,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 577,
-    "timeDay": 456,
-    "timeWeek": 458,
-    "timeMonth": 673,
+    "time": 576,
+    "timeDay": 319,
+    "timeWeek": 412,
+    "timeMonth": 661,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2023-03-21": 16,
@@ -338,9 +335,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 357,
-    "timeWeek": 203,
-    "timeMonth": 186,
+    "timeDay": 120,
+    "timeWeek": 185,
+    "timeMonth": 181,
     "timeYear": 97,
     "dailyMinutesDown": {}
   }
