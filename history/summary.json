@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 153,
-    "timeWeek": 134,
-    "timeMonth": 128,
-    "timeYear": 128,
+    "time": 129,
+    "timeDay": 134,
+    "timeWeek": 133,
+    "timeMonth": 129,
+    "timeYear": 129,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 438,
-    "timeDay": 379,
-    "timeWeek": 369,
-    "timeMonth": 342,
-    "timeYear": 404,
+    "timeDay": 589,
+    "timeWeek": 385,
+    "timeMonth": 350,
+    "timeYear": 405,
     "dailyMinutesDown": {
       "2023-02-09": 639,
       "2023-01-29": 17,
@@ -46,15 +46,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/srcbenefits.com.ico",
     "slug": "src-benefits",
     "status": "up",
-    "uptime": "97.74%",
+    "uptime": "97.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 302,
-    "timeWeek": 1802,
-    "timeMonth": 457,
+    "timeDay": 160,
+    "timeWeek": 1788,
+    "timeMonth": 451,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2023-07-25": 21
@@ -66,15 +66,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/srsobenefits.com.ico",
     "slug": "srso-benefits",
     "status": "up",
-    "uptime": "87.99%",
+    "uptime": "88.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "31.59%",
-    "uptimeYear": "81.65%",
+    "uptimeYear": "81.92%",
     "time": 119,
-    "timeDay": 415,
-    "timeWeek": 476,
-    "timeMonth": 255,
+    "timeDay": 336,
+    "timeWeek": 467,
+    "timeMonth": 258,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2023-07-20": 1215,
@@ -142,8 +142,7 @@
       "2022-08-04": 1440,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
-      "2022-08-01": 1440,
-      "2022-07-31": 1440
+      "2022-08-01": 1440
     }
   },
   {
@@ -158,10 +157,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 261,
-    "timeDay": 237,
-    "timeWeek": 179,
+    "timeDay": 142,
+    "timeWeek": 165,
     "timeMonth": 146,
-    "timeYear": 219,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2023-07-25": 18,
       "2023-03-06": 17
@@ -177,11 +176,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.34%",
-    "time": 130,
-    "timeDay": 171,
-    "timeWeek": 140,
-    "timeMonth": 143,
+    "uptimeYear": "97.61%",
+    "time": 129,
+    "timeDay": 66,
+    "timeWeek": 125,
+    "timeMonth": 141,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2022-08-08": 1083,
@@ -191,8 +190,7 @@
       "2022-08-04": 1440,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
-      "2022-08-01": 1440,
-      "2022-07-31": 1440
+      "2022-08-01": 1440
     }
   },
   {
@@ -201,15 +199,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wellnesswayusa.com.ico",
     "slug": "wellness-way-usa",
     "status": "up",
-    "uptime": "95.78%",
+    "uptime": "95.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.34%",
+    "uptimeYear": "97.61%",
     "time": 92,
-    "timeDay": 126,
-    "timeWeek": 86,
-    "timeMonth": 73,
+    "timeDay": 44,
+    "timeWeek": 79,
+    "timeMonth": 72,
     "timeYear": 73,
     "dailyMinutesDown": {
       "2022-08-08": 1083,
@@ -219,8 +217,7 @@
       "2022-08-04": 1440,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
-      "2022-08-01": 1440,
-      "2022-07-31": 1440
+      "2022-08-01": 1440
     }
   },
   {
@@ -235,10 +232,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 567,
-    "timeDay": 557,
-    "timeWeek": 442,
-    "timeMonth": 416,
-    "timeYear": 568,
+    "timeDay": 373,
+    "timeWeek": 431,
+    "timeMonth": 414,
+    "timeYear": 567,
     "dailyMinutesDown": {
       "2023-03-21": 16,
       "2022-12-15": 41,
