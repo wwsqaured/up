@@ -139,9 +139,9 @@
     "url": "https://joservicesinsurance.com",
     "icon": "https://icons.duckduckgo.com/ip3/joservicesinsurance.com.ico",
     "slug": "jo-insurance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -151,6 +151,7 @@
     "timeMonth": 153,
     "timeYear": 168,
     "dailyMinutesDown": {
+      "2024-03-16": 0,
       "2023-07-25": 18
     }
   },
@@ -195,9 +196,9 @@
     "url": "https://wellnesswayconnect.com",
     "icon": "https://icons.duckduckgo.com/ip3/wellnesswayconnect.com.ico",
     "slug": "ww-connect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -207,6 +208,7 @@
     "timeMonth": 447,
     "timeYear": 444,
     "dailyMinutesDown": {
+      "2024-03-16": 0,
       "2023-09-29": 18,
       "2023-03-21": 16
     }
