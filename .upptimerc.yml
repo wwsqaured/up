@@ -5,8 +5,6 @@ repo: up # The name of this repository
 sites:
   - name: WWUSA
     url: https://wellnesswayusa.com
-  - name: WW SRC APP
-    url: https://src.wellnesswaveusa.com
   - name: SRCBenefits
     url: https://srcbenefits.com
   - name: SRSO Benefits
