@@ -4,18 +4,20 @@
     "url": "https://wellnesswayusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/wellnesswayusa.com.ico",
     "slug": "wwusa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 118,
-    "timeWeek": 163,
-    "timeMonth": 176,
+    "timeDay": 105,
+    "timeWeek": 154,
+    "timeMonth": 173,
     "timeYear": 189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-22": 0
+    }
   },
   {
     "name": "SRCBenefits",
@@ -45,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/srsobenefits.com.ico",
     "slug": "srso-benefits",
     "status": "up",
-    "uptime": "91.44%",
+    "uptime": "91.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -160,18 +162,20 @@
     "url": "https://wellnesswayusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/wellnesswayusa.com.ico",
     "slug": "wellness-way-usa",
-    "status": "up",
-    "uptime": "96.99%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 101,
-    "timeWeek": 128,
-    "timeMonth": 152,
-    "timeYear": 120,
-    "dailyMinutesDown": {}
+    "timeDay": 61,
+    "timeWeek": 115,
+    "timeMonth": 147,
+    "timeYear": 119,
+    "dailyMinutesDown": {
+      "2024-05-22": 0
+    }
   },
   {
     "name": "WW Connect",
