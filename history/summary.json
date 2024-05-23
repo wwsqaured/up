@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wellnesswayusa.com.ico",
     "slug": "wwusa",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "90.64%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.97%",
     "time": 189,
-    "timeDay": 105,
-    "timeWeek": 154,
-    "timeMonth": 173,
+    "timeDay": 103,
+    "timeWeek": 155,
+    "timeMonth": 171,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2024-05-22": 0
+      "2024-05-23": 41,
+      "2024-05-22": 94
     }
   },
   {
@@ -31,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 245,
-    "timeDay": 374,
-    "timeWeek": 223,
-    "timeMonth": 266,
+    "timeDay": 112,
+    "timeWeek": 212,
+    "timeMonth": 261,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2024-01-03": 16,
@@ -53,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "84.31%",
     "time": 257,
-    "timeDay": 343,
-    "timeWeek": 304,
-    "timeMonth": 329,
-    "timeYear": 314,
+    "timeDay": 472,
+    "timeWeek": 338,
+    "timeMonth": 334,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2024-04-03": 19,
       "2023-07-20": 1215,
@@ -115,8 +116,7 @@
       "2023-05-28": 1440,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
-      "2023-05-25": 1440,
-      "2023-05-24": 615
+      "2023-05-25": 1440
     }
   },
   {
@@ -131,9 +131,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 117,
-    "timeWeek": 157,
-    "timeMonth": 178,
+    "timeDay": 123,
+    "timeWeek": 145,
+    "timeMonth": 175,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2023-07-25": 18
@@ -151,8 +151,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 144,
-    "timeWeek": 112,
+    "timeDay": 101,
+    "timeWeek": 106,
     "timeMonth": 127,
     "timeYear": 143,
     "dailyMinutesDown": {}
@@ -163,18 +163,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wellnesswayusa.com.ico",
     "slug": "wellness-way-usa",
     "status": "down",
-    "uptime": "97.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.99%",
+    "uptimeDay": "90.64%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.97%",
     "time": 114,
-    "timeDay": 61,
-    "timeWeek": 115,
-    "timeMonth": 147,
+    "timeDay": 23,
+    "timeWeek": 112,
+    "timeMonth": 138,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-05-22": 0
+      "2024-05-23": 41,
+      "2024-05-22": 94
     }
   },
   {
@@ -189,9 +190,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 441,
-    "timeDay": 515,
-    "timeWeek": 324,
-    "timeMonth": 435,
+    "timeDay": 171,
+    "timeWeek": 323,
+    "timeMonth": 424,
     "timeYear": 420,
     "dailyMinutesDown": {
       "2023-09-29": 18
