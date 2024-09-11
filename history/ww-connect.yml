@@ -1,7 +1,7 @@
 url: https://wellnesswayconnect.com
-status: up
-code: 200
-responseTime: 651
-lastUpdated: 2024-09-10T23:12:03.102Z
+status: down
+code: 500
+responseTime: 3071
+lastUpdated: 2024-09-11T05:53:57.407Z
 startTime: 2021-07-23T23:05:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
