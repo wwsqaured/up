@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wellnesswayusa.com.ico",
     "slug": "wwusa",
     "status": "up",
-    "uptime": "86.95%",
+    "uptime": "86.96%",
     "uptimeDay": "98.08%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
@@ -121,9 +121,9 @@
     "url": "https://joservicesinsurance.com",
     "icon": "https://icons.duckduckgo.com/ip3/joservicesinsurance.com.ico",
     "slug": "jo-insurance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -132,7 +132,9 @@
     "timeWeek": 213,
     "timeMonth": 170,
     "timeYear": 177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-11": 0
+    }
   },
   {
     "name": "FirstResponder",
