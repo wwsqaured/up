@@ -143,19 +143,19 @@
     "url": "https://firstrespondersflorida.com",
     "icon": "https://icons.duckduckgo.com/ip3/firstrespondersflorida.com.ico",
     "slug": "first-responder",
-    "status": "down",
+    "status": "up",
     "uptime": "97.69%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 118,
-    "timeWeek": 189,
-    "timeMonth": 223,
-    "timeYear": 182,
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 174,
+    "timeDay": 205,
+    "timeWeek": 222,
+    "timeMonth": 234,
+    "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-03-28": 21
+      "2025-03-28": 32
     }
   },
   {
