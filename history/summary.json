@@ -13,7 +13,7 @@
     "time": 188,
     "timeDay": 146,
     "timeWeek": 243,
-    "timeMonth": 226,
+    "timeMonth": 224,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2024-09-11": 28,
@@ -89,7 +89,7 @@
     "time": 318,
     "timeDay": 320,
     "timeWeek": 394,
-    "timeMonth": 507,
+    "timeMonth": 523,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2025-02-26": 16,
@@ -110,7 +110,7 @@
     "time": 391,
     "timeDay": 267,
     "timeWeek": 415,
-    "timeMonth": 424,
+    "timeMonth": 421,
     "timeYear": 415,
     "dailyMinutesDown": {
       "2025-02-05": 21,
@@ -132,7 +132,7 @@
     "time": 198,
     "timeDay": 167,
     "timeWeek": 280,
-    "timeMonth": 228,
+    "timeMonth": 229,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2024-09-18": 18
@@ -144,18 +144,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/firstrespondersflorida.com.ico",
     "slug": "first-responder",
     "status": "down",
-    "uptime": "97.64%",
-    "uptimeDay": "64.80%",
-    "uptimeWeek": "88.56%",
-    "uptimeMonth": "97.37%",
-    "uptimeYear": "99.78%",
+    "uptime": "97.63%",
+    "uptimeDay": "64.22%",
+    "uptimeWeek": "87.80%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "99.77%",
     "time": 167,
-    "timeDay": 138,
+    "timeDay": 140,
     "timeWeek": 146,
     "timeMonth": 163,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-03-30": 498,
+      "2025-03-31": 60,
+      "2025-03-30": 514,
       "2025-03-29": 570,
       "2025-03-28": 85
     }
@@ -174,7 +175,7 @@
     "time": 148,
     "timeDay": 186,
     "timeWeek": 207,
-    "timeMonth": 199,
+    "timeMonth": 198,
     "timeYear": 158,
     "dailyMinutesDown": {
       "2024-07-16": 795,
@@ -249,7 +250,7 @@
     "time": 396,
     "timeDay": 1884,
     "timeWeek": 1563,
-    "timeMonth": 720,
+    "timeMonth": 711,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2025-03-25": 19,
