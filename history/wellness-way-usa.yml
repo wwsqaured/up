@@ -1,7 +1,7 @@
 url: https://wellnesswayusa.com
-status: up
-code: 200
-responseTime: 638
-lastUpdated: 2025-04-28T23:13:39.257Z
+status: down
+code: 500
+responseTime: 74
+lastUpdated: 2025-04-28T23:27:53.140Z
 startTime: 2021-07-23T23:05:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
