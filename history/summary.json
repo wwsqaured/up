@@ -4,19 +4,19 @@
     "url": "https://wellnesswayusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/wellnesswayusa.com.ico",
     "slug": "wwusa",
-    "status": "down",
+    "status": "up",
     "uptime": "93.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 600,
-    "timeWeek": 414,
-    "timeMonth": 388,
+    "time": 254,
+    "timeDay": 497,
+    "timeWeek": 400,
+    "timeMonth": 385,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2025-10-03": 0
+      "2025-10-03": 11
     }
   },
   {
@@ -60,7 +60,7 @@
     "timeMonth": 165,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-10-03": 1124,
+      "2025-10-03": 1135,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
@@ -178,7 +178,7 @@
     "timeMonth": 0,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-10-03": 1124,
+      "2025-10-03": 1136,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
