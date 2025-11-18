@@ -50,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/srsobenefits.com.ico",
     "slug": "srso-benefits",
     "status": "down",
-    "uptime": "86.82%",
+    "uptime": "86.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -61,7 +61,7 @@
     "timeMonth": 148,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2025-11-18": 947,
+      "2025-11-18": 960,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -225,7 +225,7 @@
     "timeMonth": 0,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-11-18": 947,
+      "2025-11-18": 960,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -448,13 +448,13 @@
     "url": "https://wellnesswayconnect.com",
     "icon": "https://icons.duckduckgo.com/ip3/wellnesswayconnect.com.ico",
     "slug": "ww-connect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "89.69%",
+    "uptimeDay": "89.67%",
     "uptimeWeek": "92.83%",
     "uptimeMonth": "93.56%",
     "uptimeYear": "99.43%",
-    "time": 987,
+    "time": 988,
     "timeDay": 2322,
     "timeWeek": 2063,
     "timeMonth": 1923,
@@ -491,8 +491,7 @@
       "2025-10-19": 61,
       "2025-10-18": 44,
       "2025-10-17": 90,
-      "2025-10-16": 55,
-      "2025-10-15": 17
+      "2025-10-16": 55
     }
   }
 ]
