@@ -55,14 +55,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.14%",
+    "uptimeYear": "65.12%",
     "time": 376,
     "timeDay": 84,
     "timeWeek": 128,
     "timeMonth": 147,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2025-11-26": 329,
+      "2025-11-26": 419,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
@@ -228,14 +228,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "48.13%",
+    "uptimeYear": "48.11%",
     "time": 191,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-11-26": 330,
+      "2025-11-26": 419,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
@@ -466,15 +466,15 @@
     "url": "https://wellnesswayconnect.com",
     "icon": "https://icons.duckduckgo.com/ip3/wellnesswayconnect.com.ico",
     "slug": "ww-connect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "87.74%",
-    "uptimeWeek": "93.85%",
+    "uptimeDay": "87.72%",
+    "uptimeWeek": "94.21%",
     "uptimeMonth": "93.12%",
     "uptimeYear": "99.41%",
-    "time": 1047,
+    "time": 1048,
     "timeDay": 1727,
-    "timeWeek": 1959,
+    "timeWeek": 1957,
     "timeMonth": 1953,
     "timeYear": 1180,
     "dailyMinutesDown": {
@@ -508,7 +508,7 @@
       "2025-10-27": 185,
       "2025-10-26": 34,
       "2025-10-25": 45,
-      "2025-10-24": 68
+      "2025-10-24": 31
     }
   }
 ]
