@@ -63,7 +63,7 @@
     "timeMonth": 152,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2025-12-04": 802,
+      "2025-12-04": 833,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -237,14 +237,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "45.85%",
+    "uptimeYear": "45.84%",
     "time": 191,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-12-04": 802,
+      "2025-12-04": 833,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -483,13 +483,13 @@
     "url": "https://wellnesswayconnect.com",
     "icon": "https://icons.duckduckgo.com/ip3/wellnesswayconnect.com.ico",
     "slug": "ww-connect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "93.69%",
+    "uptimeDay": "93.67%",
     "uptimeWeek": "91.43%",
-    "uptimeMonth": "93.02%",
-    "uptimeYear": "99.42%",
-    "time": 1124,
+    "uptimeMonth": "93.13%",
+    "uptimeYear": "99.43%",
+    "time": 1125,
     "timeDay": 2202,
     "timeWeek": 1887,
     "timeMonth": 2020,
@@ -521,7 +521,7 @@
       "2025-11-09": 118,
       "2025-11-08": 211,
       "2025-11-07": 110,
-      "2025-11-06": 72
+      "2025-11-06": 19
     }
   }
 ]
